@@ -1,4 +1,4 @@
-num = [[4, 6], [3, 5]]
+num = [[4, 6], [6, 5]]
 total = 0
 for row in num:
     for value in row:
